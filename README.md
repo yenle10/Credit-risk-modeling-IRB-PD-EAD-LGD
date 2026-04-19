@@ -2,17 +2,6 @@ Methodology: pdf file
 
 Practice: python files
 
-Order for the python notebook:
-
-1. Data preparation
-
-2. Userdefined_functions
-
-3. PD model
-   
-5. 02_LGD, EAD, EL
-
-
 Goal of the project: Build a credit risk model and provide a scorecard to use in bank daily procedures and calculate exposure loss.
 
 Terms:
