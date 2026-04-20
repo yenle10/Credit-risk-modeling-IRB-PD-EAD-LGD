@@ -111,7 +111,6 @@ Contents
 - Model evaluation: Accuracy, AUROC, Gini, KS
 - Decision making: From PD to Scorecard
 - Set Cutoffs
-- Monitor model with Population stability index (PSI)
 
 Detail
 
@@ -157,7 +156,7 @@ Cut-off point is the minimum thresold score to decide whether to accept or rejec
 
 Borrowers with a credit score higher than the set cut-off point will be accepted for loans and those less than the cutoff point will be rejected.
 
-V. Monitor model with Population stability index (PSI)
+Notebook 03_PD monitor model with Population stability index (PSI)
 
 Because population changes overtime so we need model maintainance i.e: every 6 mths - 1yr or redevelop after getting 50k - 100k new data points.
 
@@ -169,7 +168,7 @@ PSI belong to range [0,1], rebuild model if:
 0.25 - 1: big change (action needed)
 
 
-NOTEBOOK 04. LGD, EAD, EL
+NOTEBOOK 04_ LGD, EAD, EL
 
 I. LGD model
 
