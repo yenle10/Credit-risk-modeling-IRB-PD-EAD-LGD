@@ -59,7 +59,7 @@ Credit card: credit limit utilization (percentage spent upto credit limit)
 Mortgage:..
 Corp: firm size, #yr operate, target market, financial statement info: ROA, ROE, current ratio..
 
-NOTEBOOK DATA PREPARATION
+NOTEBOOK 01_DATA PREPARATION
 
 I. DATA PREPARATION
 
@@ -101,7 +101,7 @@ II.4 EXPORT (TRAIN AND TEST) DATA TO CSV
 
 
 
-NOTEBOOK 01_PD MODEL
+NOTEBOOK 02_PD MODEL
 
 Probability of default is the likelihood that a borrower will fail to repay the loan (credit card, mortgage or non-mortgage loan) over a one-year period
 
@@ -169,7 +169,7 @@ PSI belong to range [0,1], rebuild model if:
 0.25 - 1: big change (action needed)
 
 
-NOTEBOOK 02. LGD, EAD, EL
+NOTEBOOK 04. LGD, EAD, EL
 
 I. LGD model
 
