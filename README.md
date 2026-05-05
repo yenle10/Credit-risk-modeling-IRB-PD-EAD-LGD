@@ -33,7 +33,9 @@ Internal Ratings-Based (IRB) approaches under Basel regulations
 - Advanced IRB : PD, LGD, and EAD can be estimated internally by the bank.
 
 Corporate portfolio: PD, LGD, EAD, CCF, MA
+
 Retail portfolio: PD, LGD, EAD
+
 A-card vs B-card For credit officier who is not statistical expert, they will use score card which is simplified by PD model.
 
 Application scorecard (A-card): To decide whether to grant a loan or not. What interest rate to apply (higher the risk higher the interest)
