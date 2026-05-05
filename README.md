@@ -1,3 +1,5 @@
+The project follows Credit risk modeling in Python course (Udemy)
+
 Goal of the project: Build a credit risk model and provide a scorecard to use in bank daily procedures and calculate exposure loss.
 
 Terms:
