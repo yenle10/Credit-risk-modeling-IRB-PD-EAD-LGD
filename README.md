@@ -1,7 +1,3 @@
-Methodology: pdf file
-
-Practice: python files
-
 Goal of the project: Build a credit risk model and provide a scorecard to use in bank daily procedures and calculate exposure loss.
 
 Terms:
